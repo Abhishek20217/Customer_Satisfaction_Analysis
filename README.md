@@ -28,7 +28,7 @@ Response Time by Rating: Analyzing if there is any correlation between the time 
 
 # Key Insights & Trends
 
-1)Overall Performance:
+1) Overall Performance:
 Average rating of 4.57, indicating generally high satisfaction.
 89% positive feedback, suggesting that most customers are happy with the services.
 8.35% negative feedback, pointing to areas that require attention.
@@ -41,7 +41,7 @@ Response rate: 98.78%, highlighting the company's commitment to addressing custo
 
 Ratings have shown a consistent upward trend from May 2023 (average rating of 3.62) to 2024 (stable range of 4.5–5 stars), indicating continuous improvement in service quality.
 
-4)Word Cloud Insights:
+4) Word Cloud Insights:
 
 Positive reviews frequently mention "helpful," "efficient," "friendly," "garden," and "professional."
 Negative reviews highlight common issues with "appointment," "phone," "email," "bins," and "rubbish."
@@ -62,19 +62,19 @@ Issue: Many negative reviews mention confusion between the Servicestore and Walt
 
 Recommendation: Improve branding and communication by clearly differentiating between the services provided by the Servicestore and the Waltham Forest Council. Update the website, social media profiles, and customer-facing materials for clarity.
 
-3. Appointment Scheduling Issues
+2. Appointment Scheduling Issues
 
 Issue: Frequent complaints about scheduling appointments, particularly with delays or missed appointments.
 
 Recommendation: Improve the appointment scheduling system by implementing automated reminders, efficient scheduling processes, and clear communication with customers.
 
-5. Communication Issues (Phone & Email)
+3. Communication Issues (Phone & Email)
    
 Issue: Customers are frustrated by issues with contacting the company via phone or receiving slow responses to emails.
 
 Recommendation: Enhance customer communication by reducing phone wait times and improving email response times. Additionally, consider adding live chat support or self-service options to streamline communication.
 
-7. Gardening and Bin Services
+4. Gardening and Bin Services
    
 Issue: Many complaints involve bins, rubbish, and gardening services, particularly inefficiencies and delayed responses.
 
