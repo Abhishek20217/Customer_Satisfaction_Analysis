@@ -93,6 +93,10 @@ The analysis is presented in the Power BI dashboard (saved as a .pbix file in th
 # Power BI Dashboard Interaction 
 <a href= "https://github.com/Abhishek20217/Customer_Satisfaction_Analysis/blob/main/1.png"> View Dashboard <a/>
 
+# Dashboard Preview
+
+<img width="1737" height="743" alt="1" src="https://github.com/user-attachments/assets/eec8efe2-7532-4ef8-aa7e-cf724adfb9b2" />
+
 # How to Use This Repository
 
 1) Clone or download this repository to access the Power BI .pbix file.
