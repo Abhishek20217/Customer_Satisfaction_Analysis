@@ -1,37 +1,37 @@
 # Waltham Forest Servicestore - Customer Satisfaction Analysis
-This repository contains an analysis of customer satisfaction data for ###Waltham Forest Servicestore### based on the reviews scraped from their Trustpilot page. The analysis has been performed using Power BI to identify trends in customer feedback, key insights, and actionable recommendations to improve services.
+This repository contains an analysis of customer satisfaction data for **Waltham Forest Servicestore** based on the reviews scraped from their **Trustpilot page**. The analysis has been performed using **Power BI** to identify trends in customer feedback, key insights, and actionable recommendations to improve services.
 
 # Project Overview
-The main objective of this project is to analyze the customer reviews provided on Trustpilot for Waltham Forest Servicestore and extract insights into the company’s performance in terms of customer satisfaction, response time, and common pain points.
+The main objective of this project is to analyze the customer reviews provided on Trustpilot for **Waltham Forest Servicestore** and extract insights into the company’s performance in terms of customer satisfaction, response time, and common pain points.
 
 The analysis was performed on data extracted from Trustpilot, which includes:
 
-Customer name (anonymized)
-Title of the review
-Review text
-Rating given
-Date the review was given
-Date the response from Waltham Forest Services was posted
-Date the service was used
-Total reviews given by the customer on Trustpilot
+**Customer name** (anonymized)
+**Title of the review**
+**Review text**
+**Rating given**
+**Date the review was given**
+**Date the response from Waltham Forest Services was posted**
+**Date the service was used**
+**Total reviews given by the customer on Trustpilot**
 
 # Data Analysis
 
 Using the provided data, the following key metrics were analyzed:
 
-Overall Performance: Customer ratings and feedback trends over time.
-Business Responsiveness: Average response times and response rates to customer reviews.
-Feedback Distribution: The percentage breakdown of positive, negative, and neutral reviews.
-Review Trends: Insights into how customer satisfaction has evolved over time.
-Word Cloud Insights: Identifying frequently mentioned terms in customer reviews to understand common themes.
-Response Time by Rating: Analyzing if there is any correlation between the time taken to respond to reviews and the rating given by customers.
+**Overall Performance**: Customer ratings and feedback trends over time.
+**Business Responsiveness**: Average response times and response rates to customer reviews.
+**Feedback Distribution**: The percentage breakdown of positive, negative, and neutral reviews.
+**Review Trends**: Insights into how customer satisfaction has evolved over time.
+**Word Cloud Insights**: Identifying frequently mentioned terms in customer reviews to understand common themes.
+**Response Time by Rating**: Analyzing if there is any correlation between the time taken to respond to reviews and the rating given by customers.
 
 # Key Insights & Trends
 
-1) Overall Performance:
-Average rating of 4.57, indicating generally high satisfaction.
-89% positive feedback, suggesting that most customers are happy with the services.
-8.35% negative feedback, pointing to areas that require attention.
+1) ##Overall Performance:
+Average rating of **4.57**, indicating generally high satisfaction.
+**89% positive feedback**, suggesting that most customers are happy with the services.
+**8.35% negative feedback**, pointing to areas that require attention.
 
 2) Business Responsiveness:
 Response time: An average of 2.89 days, demonstrating that the company responds to reviews promptly.
