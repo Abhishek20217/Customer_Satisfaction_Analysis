@@ -57,19 +57,27 @@ Higher ratings (4-5 stars) receive slightly slower responses (~3 days), which mi
 Based on the analysis, the following issues and recommendations were identified:
 
 1. Confusion between Waltham Forest Servicestore and Waltham Forest Council
+
 Issue: Many negative reviews mention confusion between the Servicestore and Waltham Forest Council, leading to misdirected expectations.
+
 Recommendation: Improve branding and communication by clearly differentiating between the services provided by the Servicestore and the Waltham Forest Council. Update the website, social media profiles, and customer-facing materials for clarity.
 
-2. Appointment Scheduling Issues
+3. Appointment Scheduling Issues
+
 Issue: Frequent complaints about scheduling appointments, particularly with delays or missed appointments.
+
 Recommendation: Improve the appointment scheduling system by implementing automated reminders, efficient scheduling processes, and clear communication with customers.
 
-3. Communication Issues (Phone & Email)
+5. Communication Issues (Phone & Email)
+   
 Issue: Customers are frustrated by issues with contacting the company via phone or receiving slow responses to emails.
+
 Recommendation: Enhance customer communication by reducing phone wait times and improving email response times. Additionally, consider adding live chat support or self-service options to streamline communication.
 
-4. Gardening and Bin Services
+7. Gardening and Bin Services
+   
 Issue: Many complaints involve bins, rubbish, and gardening services, particularly inefficiencies and delayed responses.
+
 Recommendation: Implement a proactive scheduling and communication system to manage customer expectations regarding service dates. Additionally, enhance staff training to improve the quality of gardening services and provide clearer communication about service availability and charges.
 
 # Power BI Dashboard
