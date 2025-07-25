@@ -1,5 +1,5 @@
 # Waltham Forest Servicestore - Customer Satisfaction Analysis
-This repository contains an analysis of customer satisfaction data for _Waltham Forest Servicestore_ based on the reviews scraped from their Trustpilot page. The analysis has been performed using Power BI to identify trends in customer feedback, key insights, and actionable recommendations to improve services.
+This repository contains an analysis of customer satisfaction data for ###Waltham Forest Servicestore### based on the reviews scraped from their Trustpilot page. The analysis has been performed using Power BI to identify trends in customer feedback, key insights, and actionable recommendations to improve services.
 
 # Project Overview
 The main objective of this project is to analyze the customer reviews provided on Trustpilot for Waltham Forest Servicestore and extract insights into the company’s performance in terms of customer satisfaction, response time, and common pain points.
